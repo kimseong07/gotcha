@@ -1,4 +1,4 @@
-### gotcha 👋
+# gotcha 
 ```
 #include <iostream>
 #include <time.h>
